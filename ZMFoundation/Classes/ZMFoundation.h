@@ -10,4 +10,5 @@
 #import "ZMAPPInfoUtil.h"
 #import "ZMDeviceInfoUtil.h"
 #import "NSDate+Utilities.h"
+#import "NSString+ZMExtension.h"
 #endif /* ZMFoundation_h */
