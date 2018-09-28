@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/rookie250/ZMFoundation'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mmix1009@163.com' => 'mmix1009@163.com' }
-  s.source           = { :git => 'git@github.com:rookie250/ZMFoundation.git', :tag => 'v0.1.0' }
+  s.source           = { :git => 'https://github.com/rookie250/ZMFoundation.git', :tag => 'v0.1.0' }
 
   s.ios.deployment_target = '8.0'
 
