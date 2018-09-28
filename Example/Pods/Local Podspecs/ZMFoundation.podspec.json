@@ -1,0 +1,22 @@
+{
+  "name": "ZMFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of ZMFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mmix1009@163.com/ZMFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mmix1009@163.com": "mmix1009@163.com"
+  },
+  "source": {
+    "git": "https://github.com/mmix1009@163.com/ZMFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZMFoundation/Classes/**/*"
+}

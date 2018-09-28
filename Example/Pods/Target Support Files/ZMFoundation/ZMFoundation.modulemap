@@ -1,0 +1,6 @@
+framework module ZMFoundation {
+  umbrella header "ZMFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZMFoundation (0.1.0)
+
+DEPENDENCIES:
+  - ZMFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  ZMFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZMFoundation: 91b4abfd5f57fa8ae0761b1d93e06b2e861670b0
+
+PODFILE CHECKSUM: 2626742f0d06d61a25b6f6e3dff30660b2da4b4c
+
+COCOAPODS: 1.5.0
