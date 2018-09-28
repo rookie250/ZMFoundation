@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZMFoundation_Tests' do
+  pod 'ZMFoundation', :path => '../'
+  
+  
+end
